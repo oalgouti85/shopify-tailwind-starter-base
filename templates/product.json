@@ -112,15 +112,15 @@
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
-        "media_size": "large",
+        "media_size": "small",
         "constrain_to_viewport": true,
-        "media_fit": "cover",
+        "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
         "media_position": "left",
         "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "hide_variants": true,
-        "enable_video_looping": false,
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": true,
         "padding_top": 36,
         "padding_bottom": 12
       }
